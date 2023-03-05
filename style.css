@@ -1,0 +1,97 @@
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+
+.logomg {
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.navmg {
+    margin: 25px 25px 0px 0px;
+}
+
+.txtclr {
+    color: white;
+}
+
+.txtclr1 {
+    color: #f5ebc9;
+}
+
+/* Background for Frist div */
+.containerbg {
+    background-image: url(image/pexels-元-某人-12112982.jpg);
+    background-size: cover;
+    background-repeat: inherit;
+}
+
+.heromg {
+    height: 350px;
+    justify-items: center;
+}
+
+.aboutmebg {
+    background-image: url(image/pexels-ernie-santiago-5843598.jpg);
+    background-size: cover;
+}
+
+.txtclr3 {
+    color: #5e6a5b;
+}
+
+.txtclr2 {
+    color: #a7a7a1;
+}
+
+.txtclr4 {
+    color: #f4f5e0;
+}
+
+.btnclr {
+    background-color: #acbc88;
+}
+
+.imgsize {
+    height: 150px;
+}
+
+.btnalignright {
+    text-align: right;
+}
+
+
+.inlineinput{
+  text-align: left;
+}
+
+.inlined {
+  display: inline-block;
+  padding-right: 25px;
+}
+
+.contactbg {
+    background-image: url(image/pexels-sameer-prabhat-4566799.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.submitbtn {
+    text-align: center;
+}
+
+.submitclick {
+    width: 400px;
+    font-size: 24px;
+}
+
+.cntct {
+   padding-bottom: 30px;
+}
+
+.foot {
+    background-color: #a7a7a1;
+}
